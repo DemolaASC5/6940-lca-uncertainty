@@ -1,2 +1,2 @@
 # Communicating Uncertainty in Life Cycle Analysis Results
-This repo contains all commits for the BEE 6940: Climate Risk Analysis project on Communicating Uncertainty in Life Cycle Analysis Results for Demola Ogunnaike. For the most up to date code, please refer to the final-project.py file. 
+This repo contains all commits for the BEE 6940: Climate Risk Analysis project on Communicating Uncertainty in Life Cycle Analysis Results for Demola Ogunnaike. For the most up to date code, please refer to the final-project.py file. Cornell students and faculty can view the corresponding poster using this link: [BEE 6940 Final Project Poster](https://docs.google.com/drawings/d/1MCIrC3CTcKhorkqOkPpuFi56jEv2vFQWSa0jGPjpo50/edit?usp=sharing). 
